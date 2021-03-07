@@ -1,0 +1,36 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {ngerman}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Abstract}{3}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Mathematische Grundlagen}{4}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1}Einwegfunktionen}{4}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2}Modulare Arithmetik}{5}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3}Diskrete Exponentialfunktion}{8}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4}Diskreter Logarithmus}{8}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.5}Gruppentheorie}{9}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.6}Primzahlen}{11}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Diffie Hellmann Konstruktion}{12}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Sicherheit von Diffie Hellman}{13}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1}Man in the Middle}{14}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2}Discrete Logarithm Problem}{15}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3}Computational Diffie-Hellman Problem CDH}{15}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4}Decisional Diffie-Hellman Problem}{16}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Conclusion}{16}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}Quellen}{17}{}%
+\defcounter {refsection}{0}\relax 
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
